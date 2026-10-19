@@ -85,7 +85,7 @@ function CoinflipBanner.Show()
  \____\___/___||_| \_|_|   |_____|___|_|
 ]],
         rule,
-        "   BLOXSTRIKE  //  Coinflip  //  discord.gg/coinflip",
+        "   BLOXSTRIKE  //  Coinflip  //  discord.gg/coinflipwin",
         "   executor: " .. executor .. "   //   player: " .. game:GetService("Players").LocalPlayer.Name,
         rule,
     }, "\n"))
@@ -19975,7 +19975,7 @@ local xDTaraZ = setmetatable({}, {
 })
 
 xDTaraZ.Config = {
-    Discord = "https://discord.gg/coinflip",
+    Discord = "https://discord.gg/coinflipwin",
     UpdateLog = {
         { "2026-10-10", "Silent Aim and Ragebot hit again after the game update\nFixed the game crashing when you shoot\nFixed ESP Team Check and health\nAim and ESP now include bots\nSkin pictures, turning skins off restores the stock look\nAuto Rebuy works from round 1, No Flash/No Smoke/FOV restore when off" },
         { "2026-10-03", "Coinflip UI is back\nBetter executor support\nImproved Combat & Movement" },
